@@ -1,0 +1,14 @@
+body{
+	width: 100%;
+}
+.cluster-list, .interface-list, .server-list{
+	list-style: none;
+}
+
+.container-1,.container-2,.container-3, .container-4, .container-5,.container-6{
+	width: 80%;
+	padding: 10px;
+	background-color: #e0e0e0;
+	border: 1px solid #d3d3d3;
+	margin: auto;
+}
